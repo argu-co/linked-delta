@@ -74,7 +74,7 @@ The processor MUST execute the logic of the above defined in the following order
 2. ld:replace
 3. ld:add
 
-## Why use linked-delta
+## When use linked-delta
 
 - Communitate state changes / events of RDF data
 - Replicate / sync datasets
